@@ -1,0 +1,93 @@
+date	cidr	description	reason
+	65.109.0.0/16	AS24940 - Hetzner Online GmbH	SEO garbage
+	178.128.80.0/20	AS16276 - OVH SAS	sql injection attempts. VPN??
+	79.124.59.0/24	Tamatiya EOOD	vuln scan
+	103.171.180.0/23	QTIME BUSINESSES PRIVATE LIMITED	
+	185.81.156.0/22	Inulogic Virtual Private Servers	
+	20.219.151.0/24		
+	79.110.62.0/24	Des Capital B.V.	/wp-includes/wlwmanifest.xml
+	75.102.56.0/22	europe-priva4.spindns.com	"GET /wp-json/ HTTP/1.0"""
+	208.109.32.0/21	GoDaddy.com, LLC	GET //vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+	196.196.222.0/24	Packet Exchange Limited	desperately looking for a guestbook.cgi
+	209.141.32.0/19	FranTech Solutions	GET //.env HTTP/1.1
+	20.172.38.0/24	Microsoft Corporation	php vuln scan
+	5.157.21.0/24	Packet Exchange Limited	spamming .cgi routes
+	143.198.80.0/20	DigitalOcean, LLC /wlwmanifest.xml	
+	159.223.144.0/20	DigitalOcean, LLC	trying to find php/perl exploits
+	168.138.192.0/19	Oracle Public Cloud Japan	trying to find wordpress exploits
+	62.182.80.0/23	Virtual Systems LLC	GET /sites/all/libraries/elfinder/connectors/php/connector.php
+	20.250.39.0/24	Microsoft Corporation Switzerland	GET /.env, POST /, port scan
+	94.231.96.0/20	team.blue Denmark A/S	wordpress vuln scan
+	168.119.0.0/16	Hetzner Online GmbH	sql vuln scan
+	140.238.48.0/20	Oracle Corporation Japan	GET /app/.env, POST /, port scan
+	194.38.20.0/24	Rices Privately owned enterprise LLC SMARTMEDIANETWORK	GET /components/com_jbusinessdirectory/assets/upload.php
+2023-08-22	192.3.20.0/22	AS36352 - ColoCrossing	
+2023-08-22	35.208.0.0/15	AS15169 - Google LLC	bc.googleusercontent.com
+2023-11-04	47.128.0.0/14	AS16509 - Amazon Data Services Singapore	severe bytespider crawling
+2023-11-04	192.126.128.0/17	AS397731 - EliteWork LLC	fast crawling
+2023-11-04	172.104.16.0/20	AS63949 - Akamai Connected Cloud	
+2023-11-04	37.59.0.0/16	AS16276 - OVH SAS	crawling from mention.net
+2023-11-08	100.20.0.0/14	AS16509 - just block all of amazon idc	usa, oregon
+2023-11-08	52.24.0.0/14	AS16509 - just block all of amazon idc	
+2023-11-08	54.184.0.0/15	AS16509 - just block all of amazon idc	
+2023-11-08	44.224.0.0/11	AS16509 - just block all of amazon idc	
+2023-11-08	3.128.0.0/12	AS16509 - just block all of amazon idc	
+2023-11-08	34.208.0.0/12	AS16509 - just block all of amazon idc	
+2023-11-08	35.80.0.0/12	AS16509 - just block all of amazon idc	
+2023-11-08	3.16.0.0/13	AS16509 - just block all of amazon idc	
+2023-11-08	3.144.0.0/13	AS16509 - just block all of amazon idc	
+2023-11-08	18.216.0.0/13	AS16509 - just block all of amazon idc	
+2023-11-08	18.224.0.0/13	AS16509 - just block all of amazon idc	
+2023-11-08	18.236.0.0/15	AS16509 - just block all of amazon idc	
+2023-11-08	35.160.0.0/13	AS16509 - just block all of amazon idc	
+2023-11-08	52.8.0.0/13	AS16509 - just block all of amazon idc	
+2023-11-08	52.24.0.0/13	AS16509 - just block all of amazon idc	
+2023-11-08	52.32.0.0/13	AS16509 - just block all of amazon idc	
+2023-11-08	54.184.0.0/13	AS16509 - just block all of amazon idc	
+2023-11-08	37.140.195.0/24	"AS197695 - ""Domain names registrar REG.RU"", Ltd"	
+2023-11-11	65.21.0.0/16	AS24940 - Hetzner Online GmbH	finland
+2023-11-11	178.63.0.0/16	AS24940 - Hetzner Online GmbH	germany
+2023-11-12	154.12.0.0/15	AS174 - Cogent Communications	
+2023-11-18	195.201.0.0/16	AS24940 - Hetzner Online GmbH	
+2023-11-18	5.9.0.0/16	AS24940 - Hetzner Online GmbH	
+2023-11-18	5.75.128.0/17	AS24940 - Hetzner Online GmbH	
+2023-11-18	23.88.0.0/17	AS24940 - Hetzner Online GmbH	
+2023-11-18	46.4.0.0/16	AS24940 - Hetzner Online GmbH	
+2023-11-18	188.40.0.0/16	AS24940 - Hetzner Online GmbH	
+2023-11-18	172.124.0.0/14	AS7018 - AT&T Services, Inc.	
+2024-01-24	217.113.194.0/24	AS210743 - Babbar SAS	
+2024-07-06	74.80.208.0/24	AS36321 - Castle Global Inc.	
+2024-07-06	52.233.106.0/24	OpenAI	
+2024-07-06	52.230.152.0/24	OpenAI	
+2024-08-11	52.70.0.0/15	AS14618 - Amazon.com, Inc.	
+2024-08-11	23.22.0.0/15	AS14618 - Amazon.com, Inc.	
+2024-08-11	100.24.0.0/13	AS14618 - Amazon.com, Inc.	
+2024-08-11	154.28.224.0/20	AS46261 - QuickPacket, LLC	
+2024-10-27	45.81.25.0/24	AS46261 - QuickPacket, LLC	
+2024-10-27	154.29.32.0/19	AS46261 - QuickPacket, LLC	
+2024-10-27	67.213.120.0/24	AS203999 - Geekyworks IT Solutions Pvt Ltd	
+2024-10-27	66.56.71.0/24	AS203999 - Geekyworks IT Solutions Pvt Ltd	
+2024-10-27	209.95.162.0/24	AS203999 - Geekyworks IT Solutions Pvt Ltd	
+2024-12-10	4.227.36.0/25	OpenAI	
+2024-12-10	20.171.207.0/24	OpenAI	
+2024-12-10	20.171.206.0/24	OpenAI	
+2024-12-10	154.60.68.0/22	AS174 - Cogent Communications (Perplexity AI)	
+2024-12-10	185.191.171.0/24	AS209366 - SEMrush CY LTD	
+2024-12-10	18.216.0.0/14	AS16509 - Amazon.com, Inc.	
+2024-12-10	185.162.118.0/23	AS207223 - Global Connections Network LLC	
+2024-12-10	91.210.64.0/22	AS29802 - HIVELOCITY, Inc.	
+2024-12-11	189.219.212.0/24	AS11888 - Television Internacional, S.A. de C.V.	xss vuln search
+2025-01-11	61.4.74.0/24	AS18399 - Yatanarpon Teleport Company Limited	
+2025-01-20	183.56.249.0/24	AS135089 - China Telecom	
+2025-01-20	45.130.145.0/24	AS50340 - JSC Selectel	
+2025-02-24	69.176.0.0/16	AS16276 - OVH SAS	
+2025-03-11	134.199.0.0/16	AS20473 - The Constant Company, LLC	
+2025-03-11	136.227.0.0/16	AS20473 - The Constant Company, LLC	
+2025-03-11	152.39.226.0/24	AS20473 - The Constant Company, LLC	
+2025-03-11	88.214.0.0/24	AS9009 - M247 Europe SRL	
+2025-03-11	88.214.1.0/24	AS9009 - M247 Europe SRL	
+2025-03-11	92.240.207.0/24	AS9009 - M247 Europe SRL	
+2025-03-11	212.80.0.0/16	AS9009 - M247 Europe SRL	
+2025-03-11	80.239.128.0/19	AS1299 - Arelion Sweden AB	
+2025-03-11	47.82.10.0/23	AS45102 - Alibaba (US) Technology Co., Ltd.	
+2025-03-11	45.139.232.0/24	AS203020 - HostRoyale Technologies Pvt Ltd	
